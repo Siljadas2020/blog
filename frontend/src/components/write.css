@@ -1,0 +1,41 @@
+.write{
+    padding-top: 50px;
+}
+.writeForm{
+
+}
+.writeFormGroup{
+    margin-left: 150px;
+    display: flex;
+    align-items: center;
+}
+
+.writeInput:focus{
+    outline:none;
+
+}
+.writeText{
+    font-size: 30px;
+  
+}
+.writeSubmit{
+    position: absolute;
+    margin-left: 170px;
+    color: white;
+    background-color: blueviolet;
+    padding: 7px;
+    border-radius: 5px;
+   
+
+}
+
+.writeInput{
+    font-size: 30px;
+    padding: 20px;
+    width: 70vw;
+    border:none;
+    
+}
+.writeName{
+    margin-left: 150px;
+}
